@@ -1,0 +1,334 @@
+{
+    "data" : [
+        {
+          "id": 1,
+          "question": "Calamity Jane karakteri hangi çizgi romanda geçer?",
+          "answers": [
+            {
+              "text": "Red Kit",
+              "correct": true
+            },
+            {
+              "text": "Mister No",
+              "correct": false
+            },
+            {
+              "text": "Tenten'in Maceraları",
+              "correct": false
+            },
+            {
+              "text": "Scooby Doo",
+              "correct": false
+            }
+          ]
+        },
+        {
+            "id": 2,
+            "question": "Aspirin ilk kez hangi yılda satışa çıkmıştır?",
+            "answers": [
+              {
+                "text": "1937",
+                "correct": false
+              },
+              {
+                "text": "1925",
+                "correct": false
+              },
+              {
+                "text": "1899",
+                "correct": true
+              },
+              {
+                "text": "1886",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "question": "'Beni öldürmeyen acı güçlendirir' hangi ünlü düşünürün sözüdür?",
+            "answers": [
+              {
+                "text": "Freud",
+                "correct": false
+              },
+              {
+                "text": "Nietzsche",
+                "correct": true
+              },
+              {
+                "text": "Marx",
+                "correct": false
+              },
+              {
+                "text": "Konfüçyüs",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "question": "Hangi Ülkenin İki Tane Başkenti Vardır?",
+            "answers": [
+              {
+                "text": "Güney Afrika",
+                "correct": true
+              },
+              {
+                "text": "Senegal",
+                "correct": false
+              },
+              {
+                "text": "El Salvador",
+                "correct": false
+              },
+              {
+                "text": "Kamboçya",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "question": "2003 Yılında Euro Vizyon Şarkı Yarışmasında Ülkemizi Temsil Eden ve Yarışmada Birinci Gelen Sanatçımız Kimdir?",
+            "answers": [
+              {
+                "text": "Grup Athena",
+                "correct": false
+              },
+              {
+                "text": "Şebnem Paker",
+                "correct": false
+              },
+              {
+                "text": "Ajda Pekkan",
+                "correct": false
+              },
+              {
+                "text": "Sertap Erener",
+                "correct": true
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "question": "AB standartlarına göre IBAN numarasında en fazla kaç adet rakam olabilir?",
+            "answers": [
+              {
+                "text": "30",
+                "correct": false
+              },
+              {
+                "text": "32",
+                "correct": false
+              },
+              {
+                "text": "34",
+                "correct": true
+              },
+              {
+                "text": "38",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "question": "Güneş'in dış yüzeyi yaklaşık olarak kaç derecedir?",
+            "answers": [
+              {
+                "text": "4500",
+                "correct": false
+              },
+              {
+                "text": "5700",
+                "correct": false
+              },
+              {
+                "text": "6000",
+                "correct": true
+              },
+              {
+                "text": "6400",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "question": "Rembrant Van Rijn’nın 1642 yılında tamamlamış olduğu tablosunun ismi nedir?",
+            "answers": [
+              {
+                "text": "Son Akşam",
+                "correct": false
+              },
+              {
+                "text": "Gece Devriyesi",
+                "correct": true
+              },
+              {
+                "text": "Gece Yıldızlı",
+                "correct": false
+              },
+              {
+                "text": "Azmi Belleğin",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "question": "Göz renginin oluşmasında kaç farklı gen görev alır?",
+            "answers": [
+              {
+                "text": "10",
+                "correct": false
+              },
+              {
+                "text": "12",
+                "correct": false
+              },
+              {
+                "text": "14",
+                "correct": false
+              },
+              {
+                "text": "16",
+                "correct": true
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "question": "Dünyanın en eski arenalarından olan Kolezyum hangi ülkededir?",
+            "answers": [
+              {
+                "text": "Almanya",
+                "correct": false
+              },
+              {
+                "text": "Roma",
+                "correct": false
+              },
+              {
+                "text": "Fransa",
+                "correct": false
+              },
+              {
+                "text": "İtalya",
+                "correct": true
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "question": "Fantastik öykülerden oluşan ünlü Diskdünya serisinin yazarı kimdir?",
+            "answers": [
+              {
+                "text": "Terry Pratchett",
+                "correct": true
+              },
+              {
+                "text": "Suzanne Collins",
+                "correct": false
+              },
+              {
+                "text": "Ursula K. Le Guin",
+                "correct": false
+              },
+              {
+                "text": "Brandon Sanderson",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "question": "Antik Yunan'da kadın ve erkeklerin vazgeçilmez kıyafeti neydi?",
+            "answers": [
+              {
+                "text": "Kashmir",
+                "correct": false
+              },
+              {
+                "text": "Khiton",
+                "correct": true
+              },
+              {
+                "text": "Kazakh",
+                "correct": false
+              },
+              {
+                "text": "Kadarhs",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "question": "50 Amerikan Doları'nın üzerinde kimin resmi bulunur?",
+            "answers": [
+              {
+                "text": "Benjamin Franklin",
+                "correct": false
+              },
+              {
+                "text": "Alexander Hamilton",
+                "correct": false
+              },
+              {
+                "text": "Thomas Jefferson",
+                "correct": false
+              },
+              {
+                "text": "Ulysses S. Grant",
+                "correct": true
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "question": "Yazdıklarının edebi gücünü azaltacağını öne sürerek Nobel ödülünü reddeden, 'Bulantı' ve 'Duvar' kitaplarının yazarı kimdir?",
+            "answers": [
+              {
+                "text": "Friedrich Nietzsche",
+                "correct": false
+              },
+              {
+                "text": "Albert Camus",
+                "correct": false
+              },
+              {
+                "text": "Jean Paul Sartre",
+                "correct": true
+              },
+              {
+                "text": "William Faulkner",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "question": "ABD başkanlarından John Fitzgerald Kennedy’e suikast düzenleyerek öldüren kimdir?",
+            "answers": [
+              {
+                "text": "Clay Shaw",
+                "correct": false
+              },
+              {
+                "text": "Carry James",
+                "correct": true
+              },
+              {
+                "text": "Lee Harvey Oswald",
+                "correct": true
+              },
+              {
+                "text": "Jack Ruby",
+                "correct": false
+              }
+            ]
+          }
+      ]
+}
