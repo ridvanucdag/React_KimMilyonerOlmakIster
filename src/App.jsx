@@ -12,8 +12,6 @@ function App() {
 
   const [earned, setEarned] = useState("0 TL")
 
-  console.log(dataquestion)
-
   const data = dataquestion.data
 
   const moneyList = useMemo(() =>
